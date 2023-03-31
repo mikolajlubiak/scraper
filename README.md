@@ -1,0 +1,3 @@
+# scraper
+
+Scraper for AI.
